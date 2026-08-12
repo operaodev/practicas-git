@@ -56,6 +56,8 @@ Infiltrar los servidores del Banco Mundial y transferir fondos a las cuentas cif
 2. **JARVIS tiene IA adaptativa.** Si detecta el virus, aprenderá y bloqueará futuros intentos.
 3. **Catwoman podría robar algo extra por su cuenta.** No sería la primera vez.
 4. **Si Superman se involucra**, puede revisar los servidores con visión de rayos X. Asignar a Lex Luthor un fragmento de Kryptonita como respaldo.
+5. **Spider-Man podría descubrir la operación.** Coordinar con Myst
+6. **El Joker podría perder el control de la distracción.** Mantenerlo bajo supervisión de Lex Luthor.
 
 ## Plan de escape
 
