@@ -4,6 +4,7 @@
 **Clasificación:** Ultra secreto
 **Líder de misión:** Mystique
 **Estado:** 🔴 En planificación temprana
+**Finalizacion estimada:** 2025-12-31
 
 ---
 
