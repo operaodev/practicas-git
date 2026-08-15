@@ -1,5 +1,7 @@
 # 🦹‍♂️ La Legión del Mal
 
+Etiquetas de Shield.io
+
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
 > — Lex Luthor, fundador
 
