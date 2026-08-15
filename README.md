@@ -2,6 +2,8 @@
 
 Etiquetas de Shield.io
 
+enviar nuevos cambios a la rama `main` para revisión por el Consejo de Villanos.
+
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
 > — Lex Luthor, fundador
 
