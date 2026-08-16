@@ -1,5 +1,7 @@
 # 🦹‍♂️ La Legión del Mal
 
+![Estático](https://img.shields.io/badge/Legion--del--mal-Activa-red)
+
 Etiquetas de Shield.io
 
 enviar nuevos cambios a la rama `main` para revisión por el Consejo de Villanos.
