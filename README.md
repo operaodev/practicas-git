@@ -2,6 +2,12 @@
 
 ![Estático](https://img.shields.io/badge/Legion--del--mal-Activa-red)
 
+![Workflow](https://img.shields.io/github/actions/workflow/status/operaodev/practicas-git/ci.yml)
+![Release](https://img.shields.io/github/v/release/operaodev/practicas-git)
+![Issues](https://img.shields.io/github/issues/operaodev/practicas-git)
+![Último commit](https://img.shields.io/github/last-commit/operaodev/practicas-git)
+![Licencia](https://img.shields.io/github/license/operaodev/practicas-git)
+
 Etiquetas de Shield.io
 
 enviar nuevos cambios a la rama `main` para revisión por el Consejo de Villanos.
