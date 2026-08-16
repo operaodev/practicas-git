@@ -19,7 +19,7 @@ enviar nuevos cambios a la rama `main` para revisión por el Consejo de Villanos
 > Nuevo cambio remoto
 Otro cambio al azar
 
-## ¿Quiénes somos? - Remoto
+## ¿Quiénes somos? - Remoto y local ambos unidos
 
 nose
 
