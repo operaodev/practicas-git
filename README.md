@@ -1,4 +1,4 @@
-# 🦹‍♂️ La Legión del Mal Probando
+# 🦹‍♂️ La Legión del Mal
 
 ![Estático](https://img.shields.io/badge/Legion--del--mal-Activa-red)
 
