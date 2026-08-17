@@ -1,4 +1,6 @@
-# 🦹‍♂️ La Legión del Mal
+# 🦹‍♂️ La Legión del Mal - Desde local
+
+Estos son cambios son locales desde la laptop HP ELITEBOOK
 
 ![Estático](https://img.shields.io/badge/Legion--del--mal-Activa-red)
 
