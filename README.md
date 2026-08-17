@@ -1,5 +1,7 @@
 # 🦹‍♂️ La Legión del Mal - Desde local
 
+Estos son cambios son locales desde la laptop HP ELITEBOOK
+
 ![Estático](https://img.shields.io/badge/Legion--del--mal-Activa-red)
 
 ![Workflow](https://img.shields.io/github/actions/workflow/status/operaodev/practicas-git/ci.yml)
