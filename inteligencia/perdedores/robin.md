@@ -1,0 +1,3 @@
+## Robin
+
+Robin es un personaje ficticio de la serie de televisión "Legión del Mal". Es conocido por su inteligencia y habilidades estratégicas, lo que lo convierte en un miembro valioso del equipo. A pesar de su apariencia tranquila, Robin tiene un fuerte sentido de la justicia y siempre está dispuesto a ayudar a sus compañeros en situaciones difíciles. Su historia personal y desarrollo a lo largo de la serie lo hacen un personaje complejo y fascinante para los espectadores.
